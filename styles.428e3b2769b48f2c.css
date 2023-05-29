@@ -1,0 +1,1 @@
+*{box-sizing:border-box;position:relative;padding:0;margin:0}.contain:before,.contain:after{content:" ";display:table}.contain:after{clear:both}.contain{*zoom: 1;{}}html{height:100%}body{min-height:99%}.main-content,.other-thing{width:100%;float:left}
